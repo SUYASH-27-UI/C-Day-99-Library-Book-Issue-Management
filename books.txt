@@ -1,0 +1,5 @@
+101|Python Programming|John Smith|0
+102|C Programming|Dennis Ritchie|0
+103|Java Basics|James Gosling|1
+104|Data Structures|Mark Allen|0
+105|Computer Networks|Andrew Tanenbaum|1
